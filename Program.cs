@@ -35,6 +35,7 @@ namespace _4_1_18
             foreach(int l in list)
                 Console.Write($"{l}, ");
             Console.WriteLine();
+
             Console.ReadKey();
         }
         
